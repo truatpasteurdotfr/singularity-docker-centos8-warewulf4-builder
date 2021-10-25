@@ -4,7 +4,7 @@ warewulf4 builder container based on a CentOS 8 x86_64 docker image  built from 
 Tru <tru@pasteur.fr>
 
 ## Why?
-- provide a minimal builder for warewulf5
+- provide a minimal builder for warewulf4
 
 ## Caveat
 - playground, use at your own risk!
