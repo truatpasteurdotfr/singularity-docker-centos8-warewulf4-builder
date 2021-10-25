@@ -1,4 +1,4 @@
-# singularity-docker-centos8-warewulf4-builder
+# singularity-docker-centos8-warewulf4-builder [![Docker and Singularity build](https://github.com/truatpasteurdotfr/singularity-docker-centos8-warewulf4-builder/actions/workflows/docker-singularity-publish.yml/badge.svg)](https://github.com/truatpasteurdotfr/singularity-docker-centos8-warewulf4-builder/actions/workflows/docker-singularity-publish.yml)
 warewulf4 builder container based on a CentOS 8 x86_64 docker image  built from github actions
 
 Tru <tru@pasteur.fr>
@@ -9,7 +9,7 @@ Tru <tru@pasteur.fr>
 ## Caveat
 - playground, use at your own risk!
 
-## docker
+## Docker
 ```
 docker run -ti ghcr.io/truatpasteurdotfr/singularity-docker-centos8-warewulf4-builder:main
 ```
